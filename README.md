@@ -1,5 +1,6 @@
-selamat datang 
-masih kosong:)
+alpinngrh
+-proses belajar programing
+
 
 <!---
 alpinngrh/alpinngrh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
